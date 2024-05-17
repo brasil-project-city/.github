@@ -2,7 +2,7 @@
 Brasil Project City (BPC) é um servidor roleplay text-based de SA:MP com suporte à plataformas mobile e desktop.
 
 ## Equipe
-A equipe do servidor conta com dois programadores;
+A equipe do servidor conta com três programadores;
 - [Carlos Victor](https://github.com/CarlinCV)
 - [SaintsDEV](https://github.com/SaintsDEV)
 - [Jobim17](https://github.com/Jobim17)
