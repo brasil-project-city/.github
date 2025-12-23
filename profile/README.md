@@ -3,17 +3,15 @@ Brasil Project City (BPC) é um servidor roleplay text-based de SA:MP com suport
 
 ## Equipe
 A equipe do servidor conta com três programadores;
-- [Carlos Victor](https://github.com/CarlinCV)
-- [SaintsDEV](https://github.com/SaintsDEV)
-- [Jobim17](https://github.com/Jobim17) - saiu.
-
-Também temos gerentes administrativos;
-- [Fart](https://discord.com/users/1017606917289414659)
-- [Lew](https://discord.com/users/852660267212079164)
+|  | Nome | Cargo |
+| :- :- :- |
+| ![](https://i.imgur.com/OJhtxtSs.png) | Jobim | ![](https://img.shields.io/badge/Head%20of%20Development-critical)
+| ![](https://i.imgur.com/aqbVSI7s.gif) | Carlos Victor | ![](https://img.shields.io/badge/Lead%20of%20Development-darkgreen)
+| ![](https://i.imgur.com/oDMgGXOs.png) | Saints | ![](https://img.shields.io/badge/Game%20Developer-blue)
 
 ## Conexão
-- 217.196.61.231:7777
+- Em desenvolvimento.
 
 ## Contatos
-- [Discord](https://discord.gg/RPSHWBFk)
+- [Discord](https://discord.gg/RAbGDhP8Bh)
 - [Fórum](https://bpcsamp.forumeiros.com)
