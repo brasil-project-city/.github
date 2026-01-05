@@ -6,7 +6,7 @@ A equipe do servidor conta com três programadores;
 
 |  | Nome | Cargo |
 | :---: | :---: | :---: |
-| ![](https://i.imgur.com/OJhtxtSs.png) | Jobim | ![](https://img.shields.io/badge/Development%20of%20Manager-critical)
+| ![](https://i.imgur.com/OJhtxtSs.png) | Jobim | ![](https://img.shields.io/badge/Development%20Manager-critical)
 | ![](https://i.imgur.com/aqbVSI7s.gif) | Carlos Victor | ![](https://img.shields.io/badge/Lead%20of%20Development-darkgreen)
 
 ## Conexão
